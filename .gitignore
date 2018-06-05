@@ -7,4 +7,5 @@
 .DS_Store
 
 # compiler
-.compile.bat
+compile.bat
+
