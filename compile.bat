@@ -1,0 +1,1 @@
+sass --watch ./src/main.scss:./build/master.css
